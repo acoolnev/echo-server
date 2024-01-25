@@ -1,0 +1,25 @@
+.vscode/
+*.code-workspace
+
+build/
+install/
+bin/
+
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+CMakeFiles/
+CMakeScripts/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Compiled cmake preset files
+CMakePresets.json
+CMakeUserPresets.json
